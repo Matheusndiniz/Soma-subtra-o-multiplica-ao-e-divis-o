@@ -7,9 +7,6 @@
   $soma= $num1 + $num2;
   echo "A soma é:" . $soma ."<br>";
 
-  //para visualizar, digite no browser:
-//localhost/2ds
-
 
 $num1= 20;
 $num2=5;
